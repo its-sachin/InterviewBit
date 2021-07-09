@@ -26,7 +26,7 @@ int removeDuplicates(vector<int> &A) {
             else   
                 i+=1;
         }
-        else{n
+        else{
             if(A[k-1]==A[i]){
                 while(i<A.size() and A[i]==A[k-1]){
                     i+=1;
