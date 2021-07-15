@@ -1,0 +1,1 @@
+{"name":"Local: sumFibo","url":"e:\\Practice\\InterviewBit\\Graph\\sumFibo.cpp","tests":[{"id":1626355087746,"input":"4","output":"2"},{"id":1626355091612,"input":"30","output":"3"},{"id":1626355229639,"input":"300","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Practice\\InterviewBit\\Graph\\sumFibo.cpp","group":"local","local":true}
