@@ -6,6 +6,7 @@
         "shared_mutex": "cpp",
         "sstream": "cpp",
         "tuple": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
